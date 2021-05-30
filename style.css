@@ -79,7 +79,7 @@ section{
 }
 .experience{
    
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 5px 5px 10px gray;
     height: 70%;
     border-radius: 5px;
 }
@@ -89,7 +89,7 @@ section{
     background-repeat: no-repeat;
     background-position: left;
 }
-#fronend{
+#frontend{
     border-left: 7px solid;
     border-image:linear-gradient(180deg, rgb(248, 172, 32), rgb(255, 18, 164));
     border-image-slice: 1;
